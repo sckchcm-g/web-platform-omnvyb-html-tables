@@ -1,0 +1,16 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid;
+  text-align: left;
+  font-size: small;
+}
+
+tr.topsidetext {
+  background-color: #f2f2f2;
+  
+}
